@@ -69,6 +69,7 @@
   ============================================================================
  */
 //Gabriel Tortolio Fonseca - 10416751
+//github.com/migikai15/PROJETO-Fase-1-An-lise-L-xica-e-An-lise-Sint-tica
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
